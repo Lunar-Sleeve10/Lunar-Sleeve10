@@ -31,22 +31,6 @@
 
 </div>
 
-<!-- ============================ WHOAMI ============================ -->
-
-```python
-class Engineer:
-    def __init__(self):
-        self.handle    = "Lunar-Sleeve10"
-        self.name      = "Aman George"
-        self.role      = "AI / ML Engineer"
-        self.focus     = ["LLMs", "RAG", "AI agents", "MLOps"]
-        self.stack     = ["PyTorch", "LangChain", "Transformers"]
-        self.learning  = "multi-agent systems & eval pipelines"
-
-    def mission(self) -> str:
-        return "ship agents that actually do useful work ⚡"
-```
-
 <!-- ============================ STACK ============================ -->
 <div align="center">
 
