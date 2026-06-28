@@ -70,24 +70,6 @@ class Engineer:
 ![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=00f0ff)
 ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=ff00aa)
 
-<!-- ============================ STATS ============================ -->
-<div align="center">
-
-## ◤ ░▒▓ SYSTEM STATS ▓▒░ ◥
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Lunar-Sleeve10&show_icons=true&hide_border=true&theme=radical&bg_color=000000&title_color=ff00aa&icon_color=00f0ff&text_color=ffffff" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lunar-Sleeve10&layout=compact&hide_border=true&theme=radical&bg_color=000000&title_color=ff00aa&text_color=ffffff" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Lunar-Sleeve10&hide_border=true&background=000000&stroke=ff00aa&ring=00f0ff&fire=ff00aa&currStreakLabel=00f0ff&sideLabels=ffffff&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" />
-
-<br/>
-
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Lunar-Sleeve10&bg_color=000000&color=00f0ff&line=ff00aa&point=ffffff&area=true&hide_border=true" />
-
-</div>
-
 <!-- ============================ CONNECT ============================ -->
 <div align="center">
 
