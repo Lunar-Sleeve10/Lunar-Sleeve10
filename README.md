@@ -2,12 +2,9 @@
   ╔══════════════════════════════════════════════════════════════════╗
   ║  SYNTHWAVE PROFILE README — Lunar-Sleeve10 (Aman George)          ║
   ║                                                                    ║
-  ║  IMAGE SLOTS — swap these for GIFs/images you've confirmed load:  ║
-  ║    {{BANNER_GIF}}  → wide looping synthwave GIF (top banner)      ║
-  ║    {{CAR_IMAGE}}   → neon DeLorean / cyberpunk car                ║
-  ║  TIP: drop the files into an /assets folder in this repo and use  ║
-  ║       ./assets/banner.gif — that always loads. External hosts     ║
-  ║       (imgur) sometimes hotlink-block and show a broken icon.     ║
+  ║  Images: Tenor direct-gif URLs (hotlink-safe) are wired in —      ║
+  ║    hero DeLorean + cyberpunk dancer. If either ever stops loading ║
+  ║    drop a copy in /assets and point src to ./assets/<file>.gif.   ║
   ║                                                                    ║
   ║  STILL TO FILL: {{TWITTER}} {{LINKEDIN}} {{EMAIL}} {{WEBSITE}}    ║
   ║                 {{KAGGLE}} {{HUGGINGFACE}} + PROJECT_* tokens     ║
@@ -17,14 +14,11 @@
 <!-- ============================ HERO ============================ -->
 <div align="center">
 
-<!-- BANNER GIF (full width). Replace {{BANNER_GIF}} with a working URL or ./assets/banner.gif -->
-<img width="100%" src="https://i.imgur.com/7Z8Zf5K.gif" alt="synthwave banner" onerror="this.style.display='none'" />
-
 <!-- Neon name header (renders natively, no external GIF needed) -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,45:1a0033,75:ff00aa,100:00f0ff&height=210&section=header&text=AMAN%20GEORGE&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=%E2%96%B8%20AI%20%2F%20ML%20ENGINEER%20%2F%2F%20LLMs%20%E2%80%A2%20RAG%20%E2%80%A2%20AGENTS&descAlignY=60&descSize=18&descColor=00f0ff" alt="header" />
 
-<!-- DeLorean / cyberpunk car. Replace {{CAR_IMAGE}} with a confirmed image URL or ./assets/delorean.gif -->
-<img width="70%" src="https://i.imgur.com/0kJ0Z3L.gif" alt="neon delorean" onerror="this.style.display='none'" />
+<!-- HERO CAR — synthwave DeLorean (Tenor, hotlink-safe direct gif) -->
+<img width="80%" src="https://media1.tenor.com/m/uJ4RzRSeDnsAAAAd/visualdon-delore.gif" alt="neon delorean on the grid" />
 
 <br/><br/>
 
@@ -41,6 +35,8 @@
 </div>
 
 <!-- ============================ WHOAMI ============================ -->
+
+<img align="right" width="210" src="https://media1.tenor.com/m/vH6Sy-mGZq8AAAAd/dancing-dance.gif" alt="cyberpunk hologram dancer" />
 
 ```ansi
 ┌───[ Lunar-Sleeve10@grid ]─────────────────────────────────────┐
