@@ -10,7 +10,15 @@
 <!-- ============================ HERO ============================ -->
 <div align="center">
 
+<!-- Full-width pixel-art cyberpunk city banner (self-hosted in repo) -->
+<img width="100%" src="assets/view.gif" alt="cyberpunk city" />
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,45:1a0033,75:ff00aa,100:00f0ff&height=210&section=header&text=AMAN%20GEORGE&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=%E2%96%B8%20AI%20%2F%20ML%20ENGINEER%20%2F%2F%20LLMs%20%E2%80%A2%20RAG%20%E2%80%A2%20AGENTS&descAlignY=60&descSize=18&descColor=00f0ff" alt="header" />
+
+<!-- Hero neon DeLorean (self-hosted in repo) -->
+<img width="80%" src="assets/car.gif" alt="neon delorean on the grid" />
+
+<br/><br/>
 
 <a href="https://github.com/Lunar-Sleeve10">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=2800&pause=900&color=FF00AA&background=00000000&center=true&vCenter=true&width=720&lines=%3E_+INITIALIZING+NEURAL+UPLINK...;BUILDING+AUTONOMOUS+AI+AGENTS+%E2%9A%A1;FINE-TUNING+%26+ORCHESTRATING+LLMs;RETRIEVAL-AUGMENTED+EVERYTHING+%2F%2F+RAG;WELCOME+TO+THE+GRID." alt="typing" />
